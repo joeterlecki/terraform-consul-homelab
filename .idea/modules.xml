@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/consul-tf.iml" filepath="$PROJECT_DIR$/.idea/consul-tf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../proxmox-tf/.idea/proxmox-tf.iml" filepath="$PROJECT_DIR$/../proxmox-tf/.idea/proxmox-tf.iml" />
+    </modules>
+  </component>
+</project>
